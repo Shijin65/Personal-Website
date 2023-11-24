@@ -1,0 +1,155 @@
+.name{ 
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+}
+#section1{
+    background-image: url(dark.jpg);
+}
+#image{
+    /* padding-left: 6%; */
+}
+.intro{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.jarallax-img{
+    background-image: url(mee.jpg);
+}
+.imgme{
+    height: 50em;
+    padding-top: 5em;
+}
+.card{
+    background-color: black;
+    color: white;
+    
+    margin-right: 10em;
+    margin-top: 1%;
+    z-index: 1;
+    width: 30em;
+     height: 20em;
+     box-shadow: 0px 10px 80px rgba(248, 248, 250, 0.1), 0 8px 16px rgba(243, 242, 244, 0.1);
+    box-sizing: border-box;
+}
+.btn{
+    
+    margin-top: 5%;
+    margin-left: 72%;
+}
+.card-title{
+    font-family: 'Times New Roman', Times, serif
+}
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+
+#htmlcard{
+    border: 0;
+    
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right, rgb(255, 68, 0) , rgb(249, 156, 112));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#csscard{
+    border: 0;
+    
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right, rgb(0, 41, 249) , rgb(113, 209, 249));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#bootstrapcard{
+    border: 0;
+    
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right, rgb(175, 91, 239) , rgb(47, 0, 255));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#wordcard{
+    border: 0;
+
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right, rgb(20, 3, 115) , rgb(58, 138, 243));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#javacard{
+    border: 0;
+    
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right, rgb(248, 223, 0) , rgb(0, 0, 0));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#excelcard{
+    border: 0;
+    
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right, rgb(14, 72, 2) , rgb(6, 172, 78));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#canvacard{
+    border: 0;
+    
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right, rgb(38, 0, 255) , rgb(5, 208, 253));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#jcard{
+    border: 0;
+    
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    width: 18em;
+     height: 23em; 
+     background-image: linear-gradient(to right , rgb(253, 46, 5), rgb(66, 151, 248));
+     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+#head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    color: white;
+}
+.calcu
+{
+
+}
+#textarea{
+    width: 100%;
+}
